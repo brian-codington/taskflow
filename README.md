@@ -46,6 +46,7 @@ A full stack SaaS project management platform built for distributed engineering 
 ## 🏗️ Architecture
 
 ```mermaid
+
 graph TB
     CLIENT[React Frontend\nTypeScript + Redux]
 
